@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>syncblue</id>
+    <name>sync.blue</name>
+    <summary>Official app to sync all your contacts across countless apps and devices</summary>
+    <description><![CDATA[sync.blue® keeps your business contacts in sync - accross all your apps and devices. No manual data entry required anymore. Just click and sync with countless choices.]]></description>
+    <version>2.4</version>
+    <licence>agpl</licence>
+    <author mail="service@sync.blue" homepage="https://www.sync.blue">sync.blue®</author>
+    <namespace>SyncBlue</namespace>
+    <category>integration</category>
+    <bugs>https://www.sync.blue/kontakt</bugs>
+    <dependencies>
+        <nextcloud min-version="12" max-version="12"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>sync.blue</name>
+            <route>syncblue.page.index</route>
+        </navigation>
+    </navigations>
+</info>

@@ -1,0 +1,15 @@
+{
+    "name": "Sync Blue",
+    "description": "Official app to sync all your contacts across countless apps and devices",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "sync.blue®"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
