@@ -18,8 +18,8 @@
 		<h2>Resources</h2>
 		* <a href="https://app.sync.blue/auth/signup" target="_blank">Create free sync.blue&reg; account</a><br/>
 		* <a href="https://www.sync.blue" target="_blank">Visit sync.blue&reg; website</a><br/>
-		* <a href="https://www.sync.blue/contact" target="_blank">Contact us</a><br/>
-		* <a href="https://www.sync.blue/impressum" target="_blank">Imprint</a>
+		* <a href="https://www.sync.blue/en/kontakt" target="_blank">Contact us</a><br/>
+		* <a href="https://www.sync.blue/en/impressum" target="_blank">Imprint</a>
 	</div>
 
 </div>

@@ -2,7 +2,7 @@
     "name": "Sync Blue",
     "description": "Official app to sync all your contacts across countless apps and devices",
     "type": "project",
-    "license": "AGPL",
+    "license": "Apache License 2.0",
     "authors": [
         {
             "name": "sync.blue®"
